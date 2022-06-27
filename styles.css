@@ -1,1 +1,14 @@
-/* Write your CSS here! */
+body{
+    margin: 8px;
+    color: white;
+    display: block;
+    background-color: black;
+}/* Write your CSS here! */
+
+#mainHeading {
+    color: red;
+}
+
+#testP {
+    color: green;
+}
